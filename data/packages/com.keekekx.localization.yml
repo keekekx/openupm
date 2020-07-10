@@ -1,0 +1,17 @@
+name: com.keekekx.localization
+displayName: KX - Localization
+description: Unity本地化模块，支持TextmeshProUGUI，Image组件
+repoUrl: 'https://github.com/keekekx/Localization'
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+topics:
+  - gui
+  - localization
+hunter: keekekx
+gitTagPrefix: publish/x.y.z
+gitTagIgnore: ''
+minVersion: ''
+image: null
+readme: 'master:README.md'
+createdAt: 1594363995027
